@@ -1,4 +1,5 @@
-**Privacy-Preserving RAG Assistant (Local LLM)**
+
+# Privacy-Preserving RAG Assistant (Local LLM)
 
 A fully offline, privacy-first Retrieval-Augmented Generation (RAG) system for analyzing research papers using local LLMs.
 No cloud APIs. No data leakage. Everything runs on your machine.
@@ -52,3 +53,4 @@ python3 app/ingest.py
 
 ✅ Step 4: Launch the UI
 streamlit run ui.py
+ 
